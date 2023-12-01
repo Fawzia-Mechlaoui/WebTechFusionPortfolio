@@ -1,0 +1,12 @@
+﻿<bookstore>
+	<book>
+		<title>Harry Potter and the Sorcerer's Stone</title>
+		<author>J.K. Rowling</author>
+		<price>19.99</price>
+	</book>
+	<book>
+		<title>The Hobbit</title>
+		<author>J.R.R. Tolkien</author>
+		<price>15.00</price>
+	</book>
+</bookstore>

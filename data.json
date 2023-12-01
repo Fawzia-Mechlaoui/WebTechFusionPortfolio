@@ -1,0 +1,14 @@
+﻿{
+"books": [
+{
+"title": "Harry Potter and the Sorcerer's Stone",
+"author": "J.K. Rowling",
+"price": 19.99
+},
+{
+"title": "The Hobbit",
+"author": "J.R.R. Tolkien",
+"price": 15.00
+}
+]
+}
